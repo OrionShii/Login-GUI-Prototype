@@ -1,0 +1,6 @@
+C:\Users\okkyw\source\repos\Login Application  GUI\x64\Debug\Login Application  GUI.vcxproj.AssemblyReference.cache
+C:\Users\okkyw\source\repos\Login Application  GUI\x64\Debug\Login Application  GUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\okkyw\source\repos\Login Application  GUI\x64\Debug\LoginApplicationGUI.MainForm.resources
+C:\Users\okkyw\source\repos\Login Application  GUI\x64\Debug\Login Application  GUI.vcxproj.GenerateResource.cache
+C:\Users\okkyw\source\repos\Login Application  GUI\x64\Debug\Login Application  GUI.exe
+C:\Users\okkyw\source\repos\Login Application  GUI\x64\Debug\LoginApplicationGUI.MenuUtama.resources
