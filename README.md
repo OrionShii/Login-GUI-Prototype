@@ -9,6 +9,10 @@ This repository contains a **prototype of a GUI-based login application** develo
 - **Close Button:** Closes the application.
 - **User Feedback:** Displays messages to guide the user through the login process, such as error messages for empty fields or incorrect credentials.
 - **Form Customization:** Uses a picture box for displaying images and a table layout for organizing buttons.
+![Screenshot 2024-06-08 175444](https://github.com/user-attachments/assets/d190f270-cbe7-41ff-85ec-cec2d3c7ec49)
+![Screenshot 2024-06-08 175517](https://github.com/user-attachments/assets/f391ca91-f1bb-49e7-8a6b-905f4264072f)
+![Screenshot 2024-06-08 175536](https://github.com/user-attachments/assets/bda5e2cb-3af1-4d0f-8b94-dee6c2b8b608)
+![Screenshot 2024-06-08 175545](https://github.com/user-attachments/assets/dee57062-70eb-4d56-b4f9-0f3e78d409b3)
 
 ### Prerequisites
 To build and run this application, ensure that you have:
@@ -44,3 +48,5 @@ To build and run this application, ensure that you have:
 
 ### Contribution
 **Contributions are welcome!** If you have suggestions or improvements, please open an issue or submit a pull request.
+
+Note: `This feature is currently in beta and still under development.`
